@@ -1,0 +1,13 @@
+C:\Users\joao.souza\Desktop\github\todo_csharp\bin\Debug\netcoreapp3.1\todo_csharp.exe
+C:\Users\joao.souza\Desktop\github\todo_csharp\bin\Debug\netcoreapp3.1\todo_csharp.deps.json
+C:\Users\joao.souza\Desktop\github\todo_csharp\bin\Debug\netcoreapp3.1\todo_csharp.runtimeconfig.json
+C:\Users\joao.souza\Desktop\github\todo_csharp\bin\Debug\netcoreapp3.1\todo_csharp.runtimeconfig.dev.json
+C:\Users\joao.souza\Desktop\github\todo_csharp\bin\Debug\netcoreapp3.1\todo_csharp.dll
+C:\Users\joao.souza\Desktop\github\todo_csharp\bin\Debug\netcoreapp3.1\todo_csharp.pdb
+C:\Users\joao.souza\Desktop\github\todo_csharp\obj\Debug\netcoreapp3.1\todo_csharp.csprojAssemblyReference.cache
+C:\Users\joao.souza\Desktop\github\todo_csharp\obj\Debug\netcoreapp3.1\todo_csharp.csproj.CoreCompileInputs.cache
+C:\Users\joao.souza\Desktop\github\todo_csharp\obj\Debug\netcoreapp3.1\todo_csharp.AssemblyInfoInputs.cache
+C:\Users\joao.souza\Desktop\github\todo_csharp\obj\Debug\netcoreapp3.1\todo_csharp.AssemblyInfo.cs
+C:\Users\joao.souza\Desktop\github\todo_csharp\obj\Debug\netcoreapp3.1\todo_csharp.dll
+C:\Users\joao.souza\Desktop\github\todo_csharp\obj\Debug\netcoreapp3.1\todo_csharp.pdb
+C:\Users\joao.souza\Desktop\github\todo_csharp\obj\Debug\netcoreapp3.1\todo_csharp.genruntimeconfig.cache
